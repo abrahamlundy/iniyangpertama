@@ -1,0 +1,2 @@
+# iniyangpertama
+pelajari bahasa markdown
